@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanandhunv%2Fanandhunv&psig=AOvVaw2RHNFFxncA-xIcssZfowyF&ust=1757224999871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiIoLi7w48DFQAAAAAdAAAAABAz)]
 
 <h1 align="center">Hi 👋, I'm Aditto Saha</h1>
-<img align="right" alt="coding" width="400" src="[https://www.pinterest.com/pin/programmer-day-porforever--8725793007198140/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mindstream.news%2Fp%2Fend-coding&psig=AOvVaw2RHNFFxncA-xIcssZfowyF&ust=1757224999871000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiIoLi7w48DFQAAAAAdAAAAABA8)">
+<img align="right" alt="coding" width="400" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-77-tto" alt="adi-77-tto" /></a> </p>
 
