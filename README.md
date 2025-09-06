@@ -1,14 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)]
 
 <h1 align="center">Hi 👋, I'm Aditto Saha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-77-tto&label=Profile%20views&color=0e75b6&style=flat" alt="adi-77-tto" /> </p>
-- 🔭 I’m currently working on **grocceryNOW**
 
-- 🌱 I’m currently learning **React,NodeJs,Flutter**
-
-- 📫 How to reach me **adittosaha77@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <a href="https://twitter.com/aditto77" target="blank"><img src="https://img.shields.io/twitter/follow/aditto77?logo=twitter&style=for-the-badge" alt="aditto77" /></a> </p>
 
