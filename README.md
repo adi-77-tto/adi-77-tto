@@ -1,13 +1,10 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanandhunv%2Fanandhunv&psig=AOvVaw2RHNFFxncA-xIcssZfowyF&ust=1757224999871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiIoLi7w48DFQAAAAAdAAAAABAz)]
 
 <h1 align="center">Hi 👋, I'm Aditto Saha</h1>
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/programmer-day-porforever--8725793007198140/">
+<img align="right" alt="coding" width="400" src="[https://www.pinterest.com/pin/programmer-day-porforever--8725793007198140/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mindstream.news%2Fp%2Fend-coding&psig=AOvVaw2RHNFFxncA-xIcssZfowyF&ust=1757224999871000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiIoLi7w48DFQAAAAAdAAAAABA8)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-77-tto" alt="adi-77-tto" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aditto77" target="blank"><img src="https://img.shields.io/twitter/follow/aditto77?logo=twitter&style=for-the-badge" alt="aditto77" /></a> </p>
-
-- 📫 How to reach me **adittosaha77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
