@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanandhunv%2Fanandhunv&psig=AOvVaw2RHNFFxncA-xIcssZfowyF&ust=1757224999871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiIoLi7w48DFQAAAAAdAAAAABAz)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZin8GAeqFkGU_txJgFYa26HSwyMeTZXKrLp9-Rds-tr4vzucF7Y5s036smwDbDmTdmHk&usqp=CAU)]
 
 <h1 align="center">Hi 👋, I'm Aditto Saha</h1>
-<img align="right" alt="coding" width="400" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/5239dc62-bab4-4b30-ad69-3c7cce3ab926/adam_bidd_a_pixel_art_style_of_a__20_.png">
+<img align="left" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/denus5p-8441bdcb-c4f5-49d6-ad16-c0f648355855.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGVudXM1cC04NDQxYmRjYi1jNGY1LTQ5ZDYtYWQxNi1jMGY2NDgzNTU4NTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sn9Wutf1iSk_ZUCPYL_cAMN5x0v9b304_Ny4tiDm6O4">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi-77-tto" alt="adi-77-tto" /></a> </p>
 
