@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Aditto Saha</h1>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif">
